@@ -1,5 +1,5 @@
 # FramePainter
-Official pytorch implementation of "From Frames to Canvas: Endowing Interactive Image Editing with  Video Diffusion Priors"
+Official pytorch implementation of "FramePainter: Endowing Interactive Image Editing with  Video Diffusion Priors"
 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.05438-b31b1b.svg)](https://arxiv.org/abs/2403.05438)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YBYBZhang/FramePainter)
