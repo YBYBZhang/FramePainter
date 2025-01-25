@@ -2,9 +2,7 @@
 
 Official pytorch implementation of "FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors"
 
-[![arXiv](https://img.shields.io/badge/arXiv-2501.08225-b31b1b.svg)](https://arxiv.org/abs/2501.08225)
-
-<a href="https://huggingface.co/Yabo/FramePainter"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>![visitors](https://visitor-badge.laobi.icu/badge?page_id=YBYBZhang/FramePainter)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.08225-b31b1b.svg)](https://arxiv.org/abs/2501.08225)<a href="https://huggingface.co/Yabo/FramePainter"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>![visitors](https://visitor-badge.laobi.icu/badge?page_id=YBYBZhang/FramePainter)
 
 # Demo
 
